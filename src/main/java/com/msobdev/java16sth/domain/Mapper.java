@@ -6,5 +6,6 @@ public record Mapper(String firstName, String lastName) implements InterfaceA {
     public void getSth() {
         // empty comment
         // empty comment
+        // empty comment
     }
 }
